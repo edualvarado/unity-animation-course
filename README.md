@@ -6,9 +6,6 @@ Your ultimate guide to Unity's Mecanim covering keyframes, curves, inverse kinem
 
 ## Glossary
 
-* Mecanim System
-* Bare Bones of Animated Models
-* Humanoid Rigs
-* Triggering Animations
-* Blend Shapes
-* Inverse Kinematics
+* Section 1: Introduction
+* Section 2: Press Play
+* Section 3: States and Transitions
