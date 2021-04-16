@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 5d49910f41f45e249801ee891fae38f9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: PhoneBoot
+    100002: //RootNode
+    100004: PhoneBoot001
+    100006: PhoneBoot002
+    100008: Handset
+    100010: Phone
+    100012: 'Phone '
+    100014: Phone  1
+    100016: Phone_box
+    100018: Phone_box 1
+    100020: PhoneBootStand
+    100022: PhoneBootStand 1
+    100024: PhoneBootStand 2
+    100026: PhoneBox
+    400000: PhoneBoot
+    400002: //RootNode
+    400004: PhoneBoot001
+    400006: PhoneBoot002
+    400008: Handset
+    400010: Phone
+    400012: 'Phone '
+    400014: Phone  1
+    400016: Phone_box
+    400018: Phone_box 1
+    400020: PhoneBootStand
+    400022: PhoneBootStand 1
+    400024: PhoneBootStand 2
+    400026: PhoneBox
+    2300000: PhoneBoot
+    2300002: PhoneBoot001
+    2300004: PhoneBoot002
+    2300006: Handset
+    2300008: Phone
+    2300010: 'Phone '
+    2300012: Phone  1
+    2300014: Phone_box
+    2300016: Phone_box 1
+    2300018: PhoneBootStand
+    2300020: PhoneBootStand 1
+    2300022: PhoneBootStand 2
+    2300024: PhoneBox
+    3300000: PhoneBoot
+    3300002: PhoneBoot001
+    3300004: PhoneBoot002
+    3300006: Handset
+    3300008: Phone
+    3300010: 'Phone '
+    3300012: Phone  1
+    3300014: Phone_box
+    3300016: Phone_box 1
+    3300018: PhoneBootStand
+    3300020: PhoneBootStand 1
+    3300022: PhoneBootStand 2
+    3300024: PhoneBox
+    4300000: PhoneBoot
+    4300002: PhoneBoot001
+    4300004: PhoneBoot002
+    4300006: PhoneBootStand
+    4300008: Phone_box
+    4300010: Phone
+    4300012: Handset
+    4300014: PhoneBootStand
+    4300016: Phone_box
+    4300018: 'Phone '
+    4300020: PhoneBootStand
+    4300022: 'Phone '
+    4300024: PhoneBox
+    6400000: PhoneBoot
+    6400002: PhoneBoot001
+    6400004: PhoneBoot002
+    6400006: Handset
+    6400008: Phone
+    6400010: 'Phone '
+    6400012: Phone  1
+    6400014: Phone_box
+    6400016: Phone_box 1
+    6400018: PhoneBootStand
+    6400020: PhoneBootStand 1
+    6400022: PhoneBootStand 2
+    6400024: PhoneBox
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
